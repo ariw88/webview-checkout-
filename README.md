@@ -1,2 +1,2 @@
 # webview-checkout-
-Website Payment MEthod
+Website Payment Method
